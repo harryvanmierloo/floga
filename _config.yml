@@ -30,7 +30,7 @@ twitter_username: harryvanmierloo
 github_username:  harryvanmierloo
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
